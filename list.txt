@@ -4,7 +4,16 @@
 ! Expires: 1 days
 
 ! --- Minhas Regras Abaixo ---
+||fujgrehrut.com^
+||vcoqmiviscpa.com^
+||rapginwuqm.com^
+||ai-veri-cdn.t3.storage.dev^
+||3xyy.com^
+||rwuaxhtana.com^
+||cospuri.com^
+||spermmania.com^
 ||sfabkilfy.com^
+||avzsutzfa.com^
 ||rapginwuqm.com^
 ||cachuvokgods.com^
 ||rak8s.com^
@@ -213,3 +222,6 @@ spankbang.com###home > div.mt-6.flex.flex-col.gap-4:nth-child(12)
 spankbang.com###home > div.my-6:last-child
 spankbang.com###home > div.mb-6:nth-child(14) > div.relative.z-0
 eurogamer.pt###onetrust-consent-sdk
+mulherpelada.blog.br##ul.aneTemaI28e8f45_67f94e:nth-child(4)
+mulherpelada.blog.br##.aneTemaI28e8f45_89347a
+mulherpelada.blog.br##.aneTemaI28e8f45_3933f5
