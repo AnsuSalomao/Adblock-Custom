@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Title: Minha Lista Privada
+! Description: Bloqueios personalizados para meu uso diário
+! Expires: 1 days
+! Homepage: https://github.com/SEU-USUARIO/meu-repositorio
+
+! --- Minhas Regras Abaixo ---
+||exemplo.com^
+||ads.chatice.com.br^
+! Bloquear elemento específico
+facebook.com##.feed-ads
