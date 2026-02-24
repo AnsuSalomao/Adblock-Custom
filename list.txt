@@ -2,10 +2,214 @@
 ! Title: Minha Lista Privada
 ! Description: Bloqueios personalizados para meu uso diário
 ! Expires: 1 days
-! Homepage: https://github.com/SEU-USUARIO/meu-repositorio
 
 ! --- Minhas Regras Abaixo ---
-||exemplo.com^
-||ads.chatice.com.br^
-! Bloquear elemento específico
-facebook.com##.feed-ads
+||sfabkilfy.com^
+||rapginwuqm.com^
+||cachuvokgods.com^
+||rak8s.com^
+||39.valerianswing.com^
+||anym8.com^
+||rhigugacmqat.com^
+||t.co^
+||app.uff.br^
+||primepcprotocol.com^
+||gagaxbasvw.com^
+||gcore-pic.xvideos-cdn.com^
+||wtymhapirfaz.com^
+||coolbearsdaily53.com^
+||qxbroker.com^
+||okx.com^
+||declareave.com^
+||cameraprive.com^
+||stripchat.com^
+||omdskuafwc.com^
+||s.click.aliexpress.com^
+||smartreview.site^
+||porn100.fun^
+||xpu.samsungelectronics.com^
+||tvx.adgrx.com^
+||static.doubleclick.net^
+||samsungtvads.com^
+||samsungrm.net^
+||samsungqbe.com^
+||samsungotn.net^
+||samsungosp.com^
+||samsungads.com^
+||samsungadhub.com^
+||samsungacr.com^
+||pavv.co.kr^
+||log-config.samsungacr.com^
+||lcprd1.samsungcloudsolution.net^
+||eventos.samsungads.com^
+||device-metrics-us.amazon.com^
+||config.samsungads.com^
+||cdn.samsungcloudsolution.com^
+||ads.samsung.com^
+||ad.samsungadhub.com^
+||chat-e2ee-ig-p42.c10r.facebook.com^
+||mqtt.c10r.facebook.com^
+||star.c10r.facebook.com^
+||star.fallback.c10r.facebook.com^
+||msgr-latest.c10r.facebook.com^
+||graph.instagram.com^
+||empdownprd.samsungcloudsolution.com^
+||osb-v1-alb.samsungqbe.com^
+||osb-apps.samsungqbe.com^
+||apps.samsungcloudcdn.com^
+||cdn.samsungcloudsolution.com^
+||gpm.samsungqbe.com^
+||gld.push.samsungosp.com^
+||scontent.fmgf10-1.fna.fbcdn.net^
+||eu.newslake.net^
+||s.viivedun.com^
+||active-year.com^
+||hcaptcha.com^
+||frayed-window.pro^
+||bestmatchproduce.com^
+||bonusesportivo.com^
+||nrdp-ipv4.prod.ftl.netflix.com^
+||meutimao.com.br^
+||xtraffix.com^
+||dfykuhhu.com^
+||acquaintjokinglyscoring.com^
+||vmoghykzi.com^
+||ntalaxonrw.com^
+||anlrweva.com^
+||brmanaksitepau.cyou^
+||mfyobkvizcu.com^
+||supxafsfydz.com^
+||hkakujwivb.com^
+||xcetivtzezto.com^
+||katamqfz.com^
+||awgqkiat.com^
+translate.google.com.br##.qgyq3b
+translate.google.com.br##.nidPne
+translate.google.com.br###gb > div.gb_kd.gb_od.gb_Fd.gb_ld:nth-child(2) > div.gb_Bd.gb_Xd.gb_wd.gb_Jd:last-child > div.gb_Pe:first-child > div.gb_2c:first-child
+x.com###react-root > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-1f2l425.r-13qz1uu.r-417010.r-18u37iz:last-child > main.css-175oi2r.r-16y2uox.r-1wbh5a2.r-1habvwh:last-child > div.css-175oi2r.r-150rngu.r-16y2uox.r-1wbh5a2.r-113js5t > div.css-175oi2r.r-aqfbo4.r-16y2uox > div.css-175oi2r.r-1oszu61.r-1niwhzg.r-18u37iz.r-16y2uox.r-2llsf.r-13qz1uu.r-1wtj0ep > div.css-175oi2r.r-aqfbo4.r-10f7w94.r-1hycxz:last-child > div.css-175oi2r.r-1pi2tsx > div.css-175oi2r.r-1hycxz.r-1xcajam:last-child > div.css-175oi2r.r-1adg3ll > div.css-175oi2r > div.css-175oi2r.r-vacyoi.r-ttdzmv > div.css-175oi2r.r-1kqtdi0.r-1867qdf.r-1phboty.r-1ifxtd0.r-1udh08x.r-1niwhzg.r-1yadl64:last-child
+x.com###react-root > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-1f2l425.r-13qz1uu.r-417010.r-18u37iz:last-child > main.css-175oi2r.r-16y2uox.r-1wbh5a2.r-1habvwh:last-child > div.css-175oi2r.r-150rngu.r-16y2uox.r-1wbh5a2.r-113js5t > div.css-175oi2r.r-aqfbo4.r-16y2uox > div.css-175oi2r.r-1oszu61.r-1niwhzg.r-18u37iz.r-16y2uox.r-2llsf.r-13qz1uu.r-1wtj0ep > div.css-175oi2r.r-aqfbo4.r-10f7w94.r-1hycxz:last-child > div.css-175oi2r.r-1pi2tsx > div.css-175oi2r.r-1hycxz.r-1xcajam:last-child > div.css-175oi2r.r-1adg3ll > div.css-175oi2r > div.css-175oi2r.r-vacyoi.r-ttdzmv > div.css-175oi2r.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x:nth-child(5)
+x.com###react-root > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-1f2l425.r-13qz1uu.r-417010.r-18u37iz:last-child > header.css-175oi2r.r-lrvibr.r-1g40b8q.r-obd0qt.r-16y2uox:nth-child(3) > div.css-175oi2r.r-o96wvk.r-pt392 > div.css-175oi2r.r-aqfbo4.r-1pi2tsx.r-1xcajam.r-ipm5af > div.css-175oi2r.r-1pi2tsx.r-1wtj0ep.r-1rnoaur.r-o96wvk.r-is05cd > div.css-175oi2r.r-1habvwh:first-child > div.css-175oi2r.r-15zivkp.r-1bymd8e.r-13qz1uu:nth-child(2) > nav.css-175oi2r.r-eqz5dr.r-1habvwh > a.css-175oi2r.r-6koalj.r-eqz5dr.r-16y2uox.r-1habvwh.r-cnw61z.r-13qz1uu.r-1ny4l3l.r-1loqt21:nth-child(10)
+x.com###react-root > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-1f2l425.r-13qz1uu.r-417010.r-18u37iz:last-child > main.css-175oi2r.r-16y2uox.r-1wbh5a2.r-1habvwh:last-child > div.css-175oi2r.r-150rngu.r-16y2uox.r-1wbh5a2.r-113js5t > div.css-175oi2r.r-aqfbo4.r-16y2uox > div.css-175oi2r.r-1oszu61.r-1niwhzg.r-18u37iz.r-16y2uox.r-2llsf.r-13qz1uu.r-1wtj0ep > div.css-175oi2r.r-kemksi.r-1kqtdi0.r-1ua6aaf.r-th6na.r-1phboty.r-16y2uox.r-184en5c.r-1abdc3e.r-1lg4w6u.r-f8sm7e.r-13qz1uu.r-1ye8kvj:first-child > div.css-175oi2r > div.css-175oi2r.r-f8sm7e.r-13qz1uu.r-1ye8kvj:last-child > section.css-175oi2r > div.css-175oi2r:last-child > div > div.css-175oi2r:first-child
+x.com###react-root > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-1f2l425.r-13qz1uu.r-417010.r-18u37iz:last-child > header.css-175oi2r.r-lrvibr.r-1g40b8q.r-obd0qt.r-16y2uox:nth-child(3) > div.css-175oi2r.r-o96wvk.r-pt392 > div.css-175oi2r.r-aqfbo4.r-1pi2tsx.r-1xcajam.r-ipm5af > div.css-175oi2r.r-1pi2tsx.r-1wtj0ep.r-1rnoaur.r-o96wvk.r-is05cd > div.css-175oi2r.r-1habvwh:first-child > div.css-175oi2r.r-15zivkp.r-1bymd8e.r-13qz1uu:nth-child(2) > nav.css-175oi2r.r-eqz5dr.r-1habvwh > a.css-175oi2r.r-6koalj.r-eqz5dr.r-16y2uox.r-1habvwh.r-cnw61z.r-13qz1uu.r-1ny4l3l.r-1loqt21:nth-child(9)
+x.com###react-root > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-1f2l425.r-13qz1uu.r-417010.r-18u37iz:last-child > header.css-175oi2r.r-lrvibr.r-1g40b8q.r-obd0qt.r-16y2uox:nth-child(3) > div.css-175oi2r.r-o96wvk.r-pt392 > div.css-175oi2r.r-aqfbo4.r-1pi2tsx.r-1xcajam.r-ipm5af > div.css-175oi2r.r-1pi2tsx.r-1wtj0ep.r-1rnoaur.r-o96wvk.r-is05cd > div.css-175oi2r.r-1habvwh:first-child > div.css-175oi2r.r-15zivkp.r-1bymd8e.r-13qz1uu:nth-child(2) > nav.css-175oi2r.r-eqz5dr.r-1habvwh > a.css-175oi2r.r-6koalj.r-eqz5dr.r-16y2uox.r-1habvwh.r-cnw61z.r-13qz1uu.r-1ny4l3l.r-1loqt21:nth-child(7)
+x.com###react-root > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-1f2l425.r-13qz1uu.r-417010.r-18u37iz:last-child > header.css-175oi2r.r-lrvibr.r-1g40b8q.r-obd0qt.r-16y2uox:nth-child(3) > div.css-175oi2r.r-o96wvk.r-pt392 > div.css-175oi2r.r-aqfbo4.r-1pi2tsx.r-1xcajam.r-ipm5af > div.css-175oi2r.r-1pi2tsx.r-1wtj0ep.r-1rnoaur.r-o96wvk.r-is05cd > div.css-175oi2r.r-1habvwh:first-child > div.css-175oi2r.r-15zivkp.r-1bymd8e.r-13qz1uu:nth-child(2) > nav.css-175oi2r.r-eqz5dr.r-1habvwh > a.css-175oi2r.r-6koalj.r-eqz5dr.r-16y2uox.r-1habvwh.r-cnw61z.r-13qz1uu.r-1ny4l3l.r-1loqt21:nth-child(5)
+x.com###layers > div.css-175oi2r.r-aqfbo4.r-zchlnj.r-1d2f490.r-1xcajam.r-1p0dtai.r-12vffkv
+x.com###react-root > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-1f2l425.r-13qz1uu.r-417010.r-18u37iz:last-child > header.css-175oi2r.r-lrvibr.r-1g40b8q.r-obd0qt.r-16y2uox:nth-child(3) > div.css-175oi2r.r-o96wvk.r-pt392 > div.css-175oi2r.r-aqfbo4.r-1pi2tsx.r-1xcajam.r-ipm5af > div.css-175oi2r.r-1pi2tsx.r-1wtj0ep.r-1rnoaur.r-o96wvk.r-is05cd > div.css-175oi2r.r-1habvwh:first-child > div.css-175oi2r.r-15zivkp.r-1bymd8e.r-13qz1uu:nth-child(2) > nav.css-175oi2r.r-eqz5dr.r-1habvwh > a.css-175oi2r.r-6koalj.r-eqz5dr.r-16y2uox.r-1habvwh.r-cnw61z.r-13qz1uu.r-1ny4l3l.r-1loqt21:nth-child(8)
+tecmundo.com.br###js-header
+tecmundo.com.br###js-main > div.z--container:first-child > article.tec--article:last-child > div.tec--article__sidebar-grid.z--pt-16:last-child
+tecmundo.com.br###top-leaderboard
+tecmundo.com.br##div.tec--container:nth-child(3) > footer.tec--footer:last-child
+tecmundo.com.br###js-main > div.z--container:first-child > article.tec--article:last-child > div.tec--article__footer-grid:nth-child(3)
+tecmundo.com.br###js-main > div.z--container:first-child > article.tec--article:last-child > div.tec--article__body-grid:nth-child(2) > div.tec--widget-coupons.z--flex.z--text-center.z--mb-16:nth-child(5)
+tecmundo.com.br###js-main > div.z--container:first-child > article.tec--article:last-child > div.tec--article__body-grid:nth-child(2) > div.z--pt-40.z--pb-24:first-child > div:first-child > nav:first-child
+tecmundo.com.br###js-main > div.z--container:first-child > article.tec--article:last-child > div.tec--article__body-grid:nth-child(2) > div:nth-child(7)
+tecmundo.com.br###js-main > div.z--container:first-child > article.tec--article:last-child > div.tec--article__body-grid:nth-child(2) > div.tec--widget-coupons__disclaimer.z--mb-32:nth-child(6)
+tecmundo.com.br###js-main > div.z--container:first-child > article.tec--article:last-child > div.tec--article__body-grid:nth-child(2) > div.tec--widget-coupons__title:nth-child(4)
+eurogamer.pt###app_wrapper > header.app_header:first-child
+eurogamer.pt###app_wrapper > footer.app_footer:last-child
+eurogamer.pt###content_below > div.page_content > nav.after_article:last-child
+eurogamer.pt###content_above > div.page_content:first-child > main > aside.disclaimer:first-child
+eurogamer.pt###content_above > div.page_content:first-child > main > footer.article_footer:last-child
+eurogamer.pt###content_above > div.page_content:first-child > main > div.article-container:nth-child(2) > article.article:first-child > header.article_header:first-child > div.metadata:last-child > div.mypop-header-wrapper:last-child
+eurogamer.pt###content_above > div.page_content:first-child > main > div.article-container:nth-child(2) > div.read-next.article-styling:last-child
+eurogamer.pt###page_wrapper > div.advert_container.leaderboard_container:first-child
+eurogamer.pt###content_above > div.page_content:first-child > main > div.article-container:nth-child(2) > article.article:first-child > header.article_header:first-child > div.breadcrumbs:first-child
+canaltech.com.br###__next > div.h-full.w-full.bg-mglGray100.pl-0.pt-\[60px\].tablet\:pl-\[60px\].tablet\:pt-0:last-child > div.fixed.bottom-0.z-\[999\].flex.w-full.flex-row.items-center.justify-center.border.bg-mglGray50.bg-opacity-20.backdrop-blur-sm.tablet\:w-\[calc\(100\%_-_60px\)\].h-\[50px\].tablet\:h-\[90px\]:last-child
+canaltech.com.br###content-news > div.flex.min-h-\[340px\].flex-col:nth-child(6)
+canaltech.com.br###content-news > div.block.z-\[2\].mx-auto.mb-4.aspect-video.h-full.w-full.items-center.justify-center.bg-black\/5.\[\&\>\.truvidPos\]\:grid.\[\&\>\.truvidPos\]\:aspect-video.\[\&\>\.truvidPos\]\:items-center:nth-child(11)
+canaltech.com.br###content-news > div.flex.min-h-\[340px\].flex-col:nth-child(16)
+canaltech.com.br###content-news > div.block:last-child
+canaltech.com.br###content-news > div.flex.min-h-\[340px\].flex-col:nth-child(21)
+canaltech.com.br###content-news > div.flex.min-h-\[340px\].flex-col:nth-child(26)
+canaltech.com.br###content-news > div.flex.min-h-\[340px\].flex-col:nth-child(31)
+canaltech.com.br###content-news > div.flex.min-h-\[340px\].flex-col:nth-child(36)
+instagram.com##.x1azxncr
+instagram.com##._ab8b
+gamestatus.info###root > div.main-wrapper > div.home-main-container.cracked-games > div.top-bar-main:first-child > a:last-child > div.news-home-prewiw.tg-hero-bl-en.hero-bl
+gamestatus.info###root > div.main-wrapper > div.home-main-container.cracked-games > div.top-bar-main:first-child
+1337x.to##footer:nth-child(5)
+1337x.to##main.container:nth-child(4) > div.row > aside.col-3.pull-right:first-child > div.list-box.hidden-sm:last-child
+1337x.to##div.top-bar:nth-child(2)
+imdb.com##.imdb-footer, .sc-bCwene, .cvdsgD, .footer
+imdb.com##.navbar__imdbpro, .sc-GvgMv, .ftVCet
+opensubtitles.org##div.content:first-child > div.header:nth-child(2) > div.top_info:first-child
+opensubtitles.org###n3twork
+opensubtitles.org##.footer
+trakt.tv###om1gYCfRiN-content-page
+trakt.tv###links-wrapper > div.container > a:nth-child(4)
+trakt.tv###top-nav > div.user-wrapper:last-child > a.btn.btn-vip:first-child
+trakt.tv###links-wrapper > div.container > a:nth-child(5)
+trakt.tv##section.subnav-wrapper:nth-child(15) > div.container > div.right.icons:last-child > span.toggle-feeds-wrapper:last-child > a.feed-icon.csv:last-child
+trakt.tv###links-wrapper > div.container > a:nth-child(6)
+trakt.tv###top-nav > div.links-wrapper:nth-child(3) > a:last-child
+trakt.tv##div:nth-child(24) > div.emojis-supported.emojis-converted:nth-child(7)
+trakt.tv###top-nav > div.links-wrapper:nth-child(3) > div.with-ul-menu.with-top-arrow:nth-child(7)
+trakt.tv##.toggle-feeds-wrapper
+trakt.tv##div:nth-child(24) > section.subnav-wrapper.list-stats-wrapper:nth-child(3) > div.container > div.right.icons:last-child > span.toggle-subnav-wrapper.more-top:last-child > span:last-child
+trakt.tv###links-wrapper > div.container > a:nth-child(7)
+trakt.tv###links-wrapper > div.container > a.yir-loader:last-child
+trakt.tv###links-wrapper > div.container > a.yir-loader:nth-child(11)
+trakt.tv###links-wrapper > div.container > a.yir-loader:nth-child(10)
+trakt.tv###filter-watchnow-launcher
+trakt.tv###links-wrapper > div.container > a:nth-child(8)
+trakt.tv###filter-terms-launcher
+trakt.tv##section.subnav-wrapper:nth-child(15) > div.container > div.right.icons:last-child > span.filter-dropdown.toggle-progress-grid-view:nth-child(4)
+trakt.tv##div:nth-child(24) > section.subnav-wrapper.list-title-wrapper:nth-child(4) > div.container > div.left.with-title > h2 > div.right:first-child
+trakt.tv##section.subnav-wrapper:nth-child(15) > div.container > div.right.icons:last-child > span.filter-dropdown.toggle-simple-progress:nth-child(5)
+discord.com##.footer__214dc
+outlook.live.com##.QVF0n
+outlook.live.com###owaMeetNowButton_container
+outlook.live.com###teams_container
+outlook.live.com###owaNoteFeedButton_container
+outlook.live.com###owaTimePanelBtn_container
+discord.com###app-mount > div.appAsidePanelWrapper_a3002d:nth-child(4) > div.notAppAsidePanel_a3002d:first-child > div.app_a3002d:first-child > div.app__160d8 > div.layers__960e4.layers__160d8:last-child > div.layer__960e4.baseLayer__960e4 > div.container_c48ade > nav.wrapper_ef3116.guilds_c48ade:first-child > ul.tree_ef3116 > div.itemsContainer_ef3116:nth-child(2) > div.scroller_ef3116.none_d125d2.scrollerBase_d125d2:first-child > div.listItem__650eb:nth-child(5)
+discord.com###app-mount > div.appAsidePanelWrapper_a3002d:nth-child(4) > div.notAppAsidePanel_a3002d:first-child > div.app_a3002d:first-child > div.app__160d8 > div.layers__960e4.layers__160d8:last-child > div.layer__960e4.baseLayer__960e4 > div.container_c48ade > div.base_c48ade:last-child > div.content_c48ade > div.chat_f75fb0:last-child > div.subtitleContainer_f75fb0:nth-child(2) > section.title_f75fb0.container__9293f.themed__9293f > div.upperContainer__9293f > div.toolbar__9293f:last-child > a.anchor_edefb8.anchorUnderlineOnHover_edefb8:last-child
+chaturbate.com###nav > li:nth-child(7)
+chaturbate.com##.footer-holder
+chaturbate.com##.bottom
+chaturbate.com##.broadcast-yourself
+chaturbate.com###spy_tab
+chaturbate.com##.scanNext
+chaturbate.com##.playerTitleBar
+chaturbate.com###VideoPanel > div:last-child
+chaturbate.com###main > div.top-section:nth-child(2) > ul.sub-nav.genderTabs:last-child > li.gender-tab:nth-child(5)
+chaturbate.com###main > div.top-section:nth-child(2) > ul.sub-nav.genderTabs:last-child > li.gender-tab:nth-child(7)
+chaturbate.com##.fanclubButton
+chaturbate.com##.disabled
+chaturbate.com###roomTabs > div.tabBar:first-child > div:nth-child(2) > a.tabLink:nth-child(5)
+chaturbate.com###pm-tab-default
+chaturbate.com###main > div.top-section:first-child > ul.sub-nav.genderTabs:last-child > li.gender-tab:nth-child(2)
+chaturbate.com###main > div.top-section:first-child > ul.sub-nav.genderTabs:last-child > li.gender-tab:first-child
+novinhabucetuda.com##.m18native
+grok.com##div.flex.w-full.h-full:nth-child(21) > div.flex.w-full.h-full.overflow-hidden.\@container\/mainview > main.h-dvh.flex-grow.flex-shrink.relative.selection\:bg-highlight.w-0.\@container.isolate > div.flex.flex-col.items-center.w-full.h-full.p-2.mx-auto.justify-center.\@sm\:p-4.\@sm\:gap-9.\@xl\:w-4\/5.isolate:last-child > div.fixed.px-5.py-3.items-center.w-\[calc\(100\%-16px\)\].bg-black.text-xs.text-white.border.cursor-pointer.border-card.min-\[384px\]\:w-max.min-\[384px\]\:min-w-52.rounded-3xl.bottom-2.right-2.group.text-left.sm\:flex.gap-4.hidden.dark.transition-all.duration-300.ease-in-out.hover\:scale-\[1\.01\]:last-child
+netcinex.li##.swal2-container, .swal2-center, .swal2-backdrop-show
+novinhabucetuda.com##.faixa
+novinhabucetuda.com##.categorias
+novinhabucetuda.com##.menu
+novinhabucetuda.com##.rodape
+novinhabucetuda.com##.btn-post-info
+xvideos.com##.head__menu-line__main-menu
+xvideos.com###footer
+xvideos.com###v-actions > div.tabs:last-child > button.report.tab-button:last-child
+xvideos.com###header-mobile-right > div.head__login-btn-group:nth-child(3) > a.head__btn.head__btn--join.btn-clear:last-child
+xvideos.com###anc-tst-join_for_free-btn
+xvideos.com###header-mobile-right > a.btn-clear.head__btn.head__btn--icf.head__btn--chat--account.account-chat-btn:first-child
+xvideos.com###v-actions > div.tabs:last-child > button.share.tab-button:nth-child(4)
+xisvideos.net##.aneTemaH820c10d_92e4b4
+xisvideos.net##.rodapeCategorias
+xisvideos.net##div:nth-child(7)
+xisvideos.net##ul.aneTemaH820c10d_5fcb9e:nth-child(6)
+xisvideos.net###topoMenu
+xisvideos.net##.aneTemaH820c10d_5fcb9e
+xisvideos.net##.aneTemaH820c10d_30d88e
+www.xvideos.com##.part-right
+www.xvideos.com##.part-left
+xvideos.com##div.head__menu-line.width-full-body:nth-child(3)
+spankbang.com##footer
+spankbang.com##.header-nav
+spankbang.com###home > div.flex.flex-col.gap-4:nth-child(13)
+spankbang.com###video > div.left.space-y-2:first-child > div.info:last-child > section.embed.mt-6:last-child
+spankbang.com###home > div.mt-6.flex.flex-col.gap-4:nth-child(12)
+spankbang.com###home > div.my-6:last-child
+spankbang.com###home > div.mb-6:nth-child(14) > div.relative.z-0
+eurogamer.pt###onetrust-consent-sdk
