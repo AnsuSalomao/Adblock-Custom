@@ -152,27 +152,6 @@ imdb.com##.navbar__imdbpro, .sc-GvgMv, .ftVCet
 opensubtitles.org##div.content:first-child > div.header:nth-child(2) > div.top_info:first-child
 opensubtitles.org###n3twork
 opensubtitles.org##.footer
-trakt.tv###om1gYCfRiN-content-page
-trakt.tv###links-wrapper > div.container > a:nth-child(4)
-trakt.tv###top-nav > div.user-wrapper:last-child > a.btn.btn-vip:first-child
-trakt.tv###links-wrapper > div.container > a:nth-child(5)
-trakt.tv##section.subnav-wrapper:nth-child(15) > div.container > div.right.icons:last-child > span.toggle-feeds-wrapper:last-child > a.feed-icon.csv:last-child
-trakt.tv###links-wrapper > div.container > a:nth-child(6)
-trakt.tv###top-nav > div.links-wrapper:nth-child(3) > a:last-child
-trakt.tv##div:nth-child(24) > div.emojis-supported.emojis-converted:nth-child(7)
-trakt.tv###top-nav > div.links-wrapper:nth-child(3) > div.with-ul-menu.with-top-arrow:nth-child(7)
-trakt.tv##.toggle-feeds-wrapper
-trakt.tv##div:nth-child(24) > section.subnav-wrapper.list-stats-wrapper:nth-child(3) > div.container > div.right.icons:last-child > span.toggle-subnav-wrapper.more-top:last-child > span:last-child
-trakt.tv###links-wrapper > div.container > a:nth-child(7)
-trakt.tv###links-wrapper > div.container > a.yir-loader:last-child
-trakt.tv###links-wrapper > div.container > a.yir-loader:nth-child(11)
-trakt.tv###links-wrapper > div.container > a.yir-loader:nth-child(10)
-trakt.tv###filter-watchnow-launcher
-trakt.tv###links-wrapper > div.container > a:nth-child(8)
-trakt.tv###filter-terms-launcher
-trakt.tv##section.subnav-wrapper:nth-child(15) > div.container > div.right.icons:last-child > span.filter-dropdown.toggle-progress-grid-view:nth-child(4)
-trakt.tv##div:nth-child(24) > section.subnav-wrapper.list-title-wrapper:nth-child(4) > div.container > div.left.with-title > h2 > div.right:first-child
-trakt.tv##section.subnav-wrapper:nth-child(15) > div.container > div.right.icons:last-child > span.filter-dropdown.toggle-simple-progress:nth-child(5)
 discord.com##.footer__214dc
 outlook.live.com##.QVF0n
 outlook.live.com###owaMeetNowButton_container
