@@ -5,6 +5,7 @@
 
 ! --- Minhas Regras Abaixo ---
 
+||ad.twinrdengine.com^
 ||brightonclick.com^
 ||s.happyleafmotion.com^
 ||gamingadlt.com^
