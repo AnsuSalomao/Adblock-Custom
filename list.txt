@@ -5,6 +5,9 @@
 
 ! --- Minhas Regras Abaixo ---
 
+||brightonclick.com^
+||s.happyleafmotion.com^
+||gamingadlt.com^
 ||fimofppu.in^
 ||seminarycentral.org^
 ||t.me/clubeocultos_bot^
