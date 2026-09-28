@@ -5,6 +5,10 @@
 
 ! --- Minhas Regras Abaixo ---
 
+||mgcrs.erioos.com^
+||ethnicexpressions.org^
+||t.me^
+||shopee.com.br^
 ||ad.twinrdengine.com^
 ||brightonclick.com^
 ||s.happyleafmotion.com^
