@@ -5,6 +5,9 @@
 
 ! --- Minhas Regras Abaixo ---
 
+||cdn.sources.network^
+||tsyndicate.com^
+novinhabucetuda.com##.player-banners
 ||mgcrs.erioos.com^
 ||ethnicexpressions.org^
 ||t.me^
