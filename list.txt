@@ -5,6 +5,17 @@
 
 ! --- Minhas Regras Abaixo ---
 
+eporner.com##footer:nth-child(7)
+mat6tube.com##.suggestions
+livecamrips.to##nav.navbar.bg-dark.navbar-expand.navbar-dark.justify-content-center.tm-footer:nth-child(5)
+eporner.com##.footer-text
+mat6tube.com##.footer
+livecamrips.to###mainNav
+livecamrips.to###middleNav
+mat6tube.com##div.age-gate-page:nth-child(2) > div.main:nth-child(2) > div.container > div.c_title:nth-child(7)
+eporner.com##.blogPost
+eporner.com###mainphotos
+mat6tube.com##.tags-wrapper
 piratatvs.com###container_auto_movable_0031003500350031003300350031
 piratatvs.com###vlog-related
 piratatvs.com###essb_displayed_top_1403947480
