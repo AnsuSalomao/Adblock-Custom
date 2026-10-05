@@ -5,6 +5,25 @@
 
 ! --- Minhas Regras Abaixo ---
 
+piratatvs.com###container_auto_movable_0031003500350031003300350031
+piratatvs.com###vlog-related
+piratatvs.com###essb_displayed_top_1403947480
+piratatvs.com###disqus_thread
+piratatvs.com###post-2514 > div.vlog-section > div.container > div.vlog-content.vlog-single-content:first-child > div.entry-content-single:nth-child(2) > div.meta-tags:last-child
+piratatvs.com###post-2514 > div.vlog-section > div.container > div.vlog-content.vlog-single-content:first-child > div.entry-header:first-child
+piratatvs.com###footer
+piratatvs.com###header
+piratatvs.com###post-2514 > div.vlog-section > div.container > div.vlog-content.vlog-single-content:first-child > div.entry-content-single:nth-child(2) > h4:nth-child(3)
+pornoamador.com##div.aneTemaMc421303_8245b0:nth-child(4)
+webpussi.com##div.footer:last-child
+webpussi.com##div.container:nth-child(2) > div.content:nth-child(4) > div.box.tags-cloud:nth-child(2)
+webpussi.com##div.container:nth-child(2) > div.content:nth-child(4) > p.text:last-child
+webpussi.com##div.top-links:first-child
+cloudbate.com###wrapper-footer > div.container
+cloudbate.com###content > div.container > div.page-header:first-child
+cloudbate.com###list_videos_common_videos_list > div.page-header:first-child
+camwhoresbay.com##.footer
+camwhoresbay.com###modal-overlay
 ||cdn.sources.network^
 ||tsyndicate.com^
 novinhabucetuda.com##.player-banners
